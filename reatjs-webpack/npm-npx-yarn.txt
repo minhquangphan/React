@@ -1,0 +1,17 @@
+- NPM 
+    - Project scope 
+        - npm i react react-dom => dependencies
+
+        - npm install --save-dev react react-dom => devDependencies
+        - npm i -D react react-dom => devDependencies
+        
+        - npm uninstall react react-dom
+    
+    - Global scope
+        - npm i --global create-react-app
+        - npm i -g create-react-app
+
+NPX: Node => NPM,NPX
+
+yarn vs npm có gì khác nhau ???
+        
